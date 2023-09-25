@@ -5,4 +5,7 @@ a. KMP a Java Implementation by Luis Angel Montiel Moreno. Knuth-Morris-Pratt KM
 
 b. The pyramid problem. Solution code by Luis Angel Montiel Moreno. Made in Scala language.  
 
+c. The fibonacci problem. Solution code by Luis Angel Montiel Moreno in Scala language. 
+
+
 
