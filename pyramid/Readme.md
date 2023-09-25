@@ -9,9 +9,13 @@ e.g. Here is a pyramid of depth 3
 
 
    5
+
   / \\
+
  6   4
+
 / \\ / \\
+
 2   5   5
 
 
@@ -21,9 +25,13 @@ For the given example is would be
 
 
    5
-  /  
+
+  /
+
  6   4
-  \\   
+
+  \\
+
 2   5  5
 
 
