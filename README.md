@@ -7,5 +7,6 @@ b. The pyramid problem. Solution code by Luis Angel Montiel Moreno. Made in Scal
 
 c. The fibonacci problem. Solution code by Luis Angel Montiel Moreno in Scala language. 
 
+d. The palindrome problem. Solution code by Luis Angel Montiel Moreno in Java language.
 
 
